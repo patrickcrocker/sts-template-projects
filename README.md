@@ -1,0 +1,1 @@
+# sts-template-projects
